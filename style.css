@@ -1,0 +1,21 @@
+main img {
+    width: 100%;
+    }
+
+.my-card {
+    background-color: #2D3B46;
+}
+
+nav {
+    background-color: #2D3B46;
+}
+
+nav img {
+    max-width: 40px;
+}
+
+    
+main {
+    background-color: #1D2E3B;
+    overflow: auto;
+}
